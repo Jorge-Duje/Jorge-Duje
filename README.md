@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi mundo digital! Soy Jorge Duje, un apasionado desarrollador full stack con un enfoque especial en el frontend utilizando React. Además, me encanta compartir mi conocimiento como docente de programación.
 
-Sobre mí
+### Sobre mí
 🚀 Desarrollador full stack especializado en tecnologías web modernas.
 
 👨‍🏫 Docente de programación, comprometido con inspirar y capacitar a la próxima generación de desarrolladores.
@@ -16,14 +16,14 @@ Lo que hago
 
 👯 Abierto a colaboraciones en proyectos emocionantes que desafíen mi creatividad y habilidades técnicas.
 
-Datos curiosos
+### Datos curiosos
 
 🎓  mi verdadera pasión es enseñar y aprender constantemente.
 
 🎸 Cuando no estoy frente a la pantalla, me encontrarás pasando tiempo con mi familia y recorriendo nuevos lugares, me encanta viajar!
 ¡Explora mis repositorios y déjame saber si estás interesado en colaborar en proyectos emocionantes o si tienes alguna pregunta sobre programación!
 
-Contáctame
+### Contáctame
 
 📧 jorgemduje@gmail.com
 
