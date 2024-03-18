@@ -8,7 +8,7 @@
 👨‍🏫 Docente de programación, comprometido con inspirar y capacitar a la próxima generación de desarrolladores.
 
 🌟 Creyente en el poder transformador de la tecnología para resolver problemas del mundo real.
-Lo que hago
+Lo que hago.
 
 🔭 Actualmente construyendo experiencias web y móviles impresionantes utilizando React y otras tecnologías punteras.
 
